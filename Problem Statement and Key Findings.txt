@@ -1,0 +1,24 @@
+Problem Statement:
+
+Management lacks clear visibility into how many orders are being delivered late, and which shipping mode or region contributes most to delays
+Supplier reliability is not being tracked — it's unclear which suppliers are low-rated or have long lead times
+Inventory management is weak — several products have already dropped below their reorder level, creating stockout risk
+Some products haven't been restocked in over 60 days, risking potential lost sales
+Category-wise and product-wise profitability is unclear — which categories drive the most sales/profit is not known
+A number of orders are loss-making (negative profit), but the scale and pattern of this hasn't been identified
+High-value or repeat customers haven't been identified — it's unclear who places the most orders
+The actual impact of the discount strategy on profit hasn't been validated — whether discounting improves profit is unclear
+There's no analysis of warehouse-wise stock distribution or top-selling products per warehouse
+Sales/profit trends over time (month-over-month, cumulative) aren't being tracked, making it hard to catch growth or decline early
+
+Key Findings :
+
+53.8% of orders are delivered late — a major operational red flag
+2 suppliers (EliteGear Manufacturing – 2.7, Horizon Retail Supply – 2.6) have low ratings (<3) — risky to depend on
+14 products are currently below their reorder level — immediate stockout risk
+11 products haven't been restocked in 60+ days — sign of inventory neglect
+Fishing is the top revenue and profit-generating category, followed by Cleats and Camping & Hiking
+18.49% of orders are loss-making — nearly 1 in 5 orders results in a loss for the company
+Fastest supplier is Bright Path Trading (avg 4-day lead time) — a good benchmark for others
+Only 2 customers placed more than 5 orders — repeat-purchase/loyalty is very low, a concern worth flagging
+Discount rate and profit ratio show almost no correlation (~0) — meaning discounts aren't improving profit, so the discount strategy may need rethinking

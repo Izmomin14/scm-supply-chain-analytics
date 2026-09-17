@@ -1,0 +1,27 @@
+SQL 25 Question :
+
+List all products with their price, sorted by price descending.
+Find all orders with status = 'Late delivery'.
+Show all suppliers with rating below 3.
+Find products currently below their reorder level.
+Count total number of orders per shipping mode.
+Find total sales and profit per product category.
+Top 10 customers by total order value.
+Average delivery delay per region.
+List orders where profit_per_order was negative (loss-making orders).
+Find total stock quantity held per warehouse.
+Supplier-wise average lead_time_days, sorted ascending.
+Products not restocked in the last 60 days.
+Total quantity sold per product, joined with product name.
+Find customers who placed more than 5 orders.
+Which discount_rate range gives highest average profit_ratio?
+List suppliers whose products have combined stock_quantity above a threshold (e.g. 5000).
+Find the most frequently ordered product per category.
+Compare average unit_price vs average discount given, per category.
+Rank suppliers by lead_time_days within each country.
+Rank each product by total profit within its category.
+Running total (cumulative) of sales ordered by order_date.
+Month-over-month change in total profit.
+Products with stock_quantity below the average stock_quantity of their category.
+Suppliers whose avg lead_time_days is above the overall average lead_time.
+Top 3 highest-selling products per warehouse.
