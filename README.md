@@ -87,7 +87,7 @@ The business lacks clear visibility into how many orders are delivered late, and
 
 **Momin Izhar**
 
-**mominn.izhar@gmail.com**
+**mominizhar45@gmail.com**
 Fresher building a data analytics portfolio through hands-on practice projects using Python and SQL, with a focus on supply chain and BFSI use cases.
 
 📞 9834011201
